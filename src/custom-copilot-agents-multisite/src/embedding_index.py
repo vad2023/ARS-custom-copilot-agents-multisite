@@ -1,1 +1,0 @@
-print('embedding index placeholder')
