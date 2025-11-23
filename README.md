@@ -1,4 +1,4 @@
-# Custom Copilot Agents (Multi-Site)
+# ARS Custom Copilot Agents (Multi-Site)
 
 This repository contains a reference implementation for multi-site, Copilot-style
 agentic routing across SharePoint-backed knowledge bases using Azure OpenAI.
