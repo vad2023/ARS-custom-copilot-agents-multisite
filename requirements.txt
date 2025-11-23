@@ -1,7 +1,4 @@
 azure-ai-openai
 azure-core
 python-dotenv
-requests
-msal
 numpy
-tiktoken
